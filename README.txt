@@ -1,1 +1,1 @@
-Hive相关测试代码
+Hive代码，跟larryjacle/hivejdbc类似
